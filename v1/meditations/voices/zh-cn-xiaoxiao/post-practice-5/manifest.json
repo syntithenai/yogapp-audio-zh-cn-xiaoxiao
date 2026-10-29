@@ -1,0 +1,142 @@
+{
+  "id": "post-practice-5",
+  "voiceId": "zh-cn-xiaoxiao",
+  "edgeVoice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 84,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "欢迎。",
+      "file": "c000.ogg",
+      "durationSec": 2.184
+    },
+    {
+      "index": 1,
+      "text": "你已经练习过了。现在让身体接收它。",
+      "file": "c001.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 2,
+      "text": "轻松地躺下或坐下。",
+      "file": "c002.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 3,
+      "text": "瞑。",
+      "file": "c003.ogg",
+      "durationSec": 2.088
+    },
+    {
+      "index": 4,
+      "text": "[暂停：31]",
+      "file": "c004.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 5,
+      "text": "扫描是否有温暖、振动或安静的疲劳。",
+      "file": "c005.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 6,
+      "text": "没有分级。请注意。",
+      "file": "c006.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 7,
+      "text": "[暂停：45]",
+      "file": "c007.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 8,
+      "text": "长长呼气。",
+      "file": "c008.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 9,
+      "text": "再次。",
+      "file": "c009.ogg",
+      "durationSec": 2.184
+    },
+    {
+      "index": 10,
+      "text": "[暂停：38]",
+      "file": "c010.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 11,
+      "text": "感谢身体的出现。",
+      "file": "c011.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 12,
+      "text": "[暂停：31]",
+      "file": "c012.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 13,
+      "text": "让精力流失到地板上。",
+      "file": "c013.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 14,
+      "text": "[暂停：45]",
+      "file": "c014.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 15,
+      "text": "清清地吸了一口气。",
+      "file": "c015.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 16,
+      "text": "一口气呼完。",
+      "file": "c016.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 17,
+      "text": "[暂停：38]",
+      "file": "c017.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 18,
+      "text": "再轻松地吸一口气。",
+      "file": "c018.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 19,
+      "text": "动动手指。",
+      "file": "c019.ogg",
+      "durationSec": 2.76
+    },
+    {
+      "index": 20,
+      "text": "准备好后，睁开眼睛。",
+      "file": "c020.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 21,
+      "text": "随身携带一点这个。",
+      "file": "c021.ogg",
+      "durationSec": 3.768
+    }
+  ]
+}

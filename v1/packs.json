@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "zh-cn-xiaoxiao.zip", "bytes": 56749698, "sha256": "da88ebbce6932c2cffcb976d83e0d535024c178fa026a6afcc3e7740e87c75db"}
+  ]
+}

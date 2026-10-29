@@ -1,0 +1,274 @@
+{
+  "id": "body-scan-10",
+  "voiceId": "zh-cn-xiaoxiao",
+  "edgeVoice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 187,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "欢迎。",
+      "file": "c000.ogg",
+      "durationSec": 2.184
+    },
+    {
+      "index": 1,
+      "text": "需要时间到达。",
+      "file": "c001.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 2,
+      "text": "在支撑下坐下或躺下。",
+      "file": "c002.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 3,
+      "text": "如果感觉安全，请闭上眼睛。",
+      "file": "c003.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 4,
+      "text": "感受与地面的接触。",
+      "file": "c004.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 5,
+      "text": "缓慢吸气。",
+      "file": "c005.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 6,
+      "text": "呼气时间更长。",
+      "file": "c006.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 7,
+      "text": "[暂停：21]",
+      "file": "c007.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 8,
+      "text": "再次。",
+      "file": "c008.ogg",
+      "durationSec": 2.184
+    },
+    {
+      "index": 9,
+      "text": "[暂停：21]",
+      "file": "c009.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 10,
+      "text": "让肩膀下垂。",
+      "file": "c010.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 11,
+      "text": "让腹部变软。",
+      "file": "c011.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 12,
+      "text": "[暂停：27]",
+      "file": "c012.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 13,
+      "text": "从头顶开始。",
+      "file": "c013.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 14,
+      "text": "注意感觉或缺乏感觉。",
+      "file": "c014.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 15,
+      "text": "[暂停：27]",
+      "file": "c015.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 16,
+      "text": "前额。眼睛。脸颊。颚。",
+      "file": "c016.ogg",
+      "durationSec": 7.776
+    },
+    {
+      "index": 17,
+      "text": "让脸稍微融化一点。",
+      "file": "c017.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 18,
+      "text": "[暂停：27]",
+      "file": "c018.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 19,
+      "text": "喉。脖子。肩膀。",
+      "file": "c019.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 20,
+      "text": "让肩膀垂下。",
+      "file": "c020.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 21,
+      "text": "[暂停：32]",
+      "file": "c021.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 22,
+      "text": "武器。肘部。手腕。手。手指。",
+      "file": "c022.ogg",
+      "durationSec": 10.056
+    },
+    {
+      "index": 23,
+      "text": "[暂停：32]",
+      "file": "c023.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 24,
+      "text": "胸部起伏。",
+      "file": "c024.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 25,
+      "text": "心空间柔软。",
+      "file": "c025.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 26,
+      "text": "[暂停：27]",
+      "file": "c026.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 27,
+      "text": "腹部。低背。臀部。",
+      "file": "c027.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 28,
+      "text": "[暂停：32]",
+      "file": "c028.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 29,
+      "text": "大腿。膝盖。小牛。脚踝。脚。脚趾。",
+      "file": "c029.ogg",
+      "durationSec": 12.0
+    },
+    {
+      "index": 30,
+      "text": "[暂停：38]",
+      "file": "c030.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 31,
+      "text": "感觉整个身体就像一个场。",
+      "file": "c031.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 32,
+      "text": "呼吸在其中流动。",
+      "file": "c032.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 33,
+      "text": "[暂停：54]",
+      "file": "c033.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 34,
+      "text": "如果某个地方仍然紧张，就在那里呼气。",
+      "file": "c034.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 35,
+      "text": "[暂停：43]",
+      "file": "c035.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 36,
+      "text": "在全身意识中休息。",
+      "file": "c036.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 37,
+      "text": "[暂停：81]",
+      "file": "c037.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 38,
+      "text": "[暂停：32]",
+      "file": "c038.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 39,
+      "text": "开始加深呼吸。",
+      "file": "c039.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 40,
+      "text": "再次感受一下房间。",
+      "file": "c040.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 41,
+      "text": "摆动手指和脚趾。",
+      "file": "c041.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 42,
+      "text": "准备好后，睁开眼睛。",
+      "file": "c042.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 43,
+      "text": "慢慢地进入接下来的事情。",
+      "file": "c043.ogg",
+      "durationSec": 4.512
+    }
+  ]
+}
